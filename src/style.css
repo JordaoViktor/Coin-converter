@@ -20,7 +20,7 @@ input[type=number]::-webkit-outer-spin-button {
     justify-content: center;
 }
 .title{
-    font-size: 30px;
+    font-size: 60px;
     margin-top: -350px;
     line-height: 150px;
 }
@@ -34,7 +34,8 @@ input[type=number]::-webkit-outer-spin-button {
     margin-left: 15%;
     align-items: center;
     width: 70%;
-    height: 20px;
+    height: 50px;
+    font-size: 40px;
     border:1px solid #333;
     border-radius: 5px;
 }
